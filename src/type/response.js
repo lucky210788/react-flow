@@ -1,4 +1,4 @@
 export type response<T> = {
-    status: number,
-    body: Array<T>
+  status: number,
+  body: Array<T>
 }

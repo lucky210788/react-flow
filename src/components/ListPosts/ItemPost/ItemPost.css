@@ -1,0 +1,9 @@
+.item-post {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.item-post .comments {
+  margin-left: 20px;
+}
